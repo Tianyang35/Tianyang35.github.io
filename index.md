@@ -5,10 +5,7 @@ layout: homepage
 ## About Me
 
 Hello there! I am an undergraduate student specializing in computer vision at the [School of AI and Advanced Computing, Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).  
-My research interests include **medical image analysis**, **computer vision**, and **computational pathology**.
-
-I am currently advised by [Prof. Jingxin Liu](https://scholar.google.com/citations?user=C0X90VsAAAAJ&hl=en). I am very eager to continue my studies in this field. I would be truly grateful for the opportunity to collaborate with like-minded individuals. If you are interested, please feel free to drop me a message.
-
+My research interests include **medical image analysis**, **computer vision**, and **computational pathology**. I am currently advised by [Prof. Jingxin Liu](https://scholar.google.com/citations?user=C0X90VsAAAAJ&hl=en). 
 ---
 
 ## Research Interests
