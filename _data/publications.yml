@@ -3,13 +3,15 @@ main:
  
   
 
- - title: "A Structure and Semantic Aware Framework for Generalized Medical Image Segmentation via Frequency and Probabilistic Learning"
-   authors: Yuheng Xu, <strong>Tianyang Wang</strong>, Taiping Zhang
-   conference_short: IJCNN
-   conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2025.
-   pdf: https://2025.ijcnn.org/
-   image: ./assets/img/IJCNN2025.png
-   notes: Camera Ready
+ 
+
+  - title: "A Structure and Semantic Aware Framework for Generalized Medical Image Segmentation via Frequency and Probabilistic Learning"
+    authors: Yuheng Xu, <strong>Tianyang Wang</strong>, Taiping Zhang
+    conference_short: IJCNN
+    conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2025.
+    pdf: https://2025.ijcnn.org/
+    image: ./assets/img/BIBM2024.png
+    notes: Camera Ready
 
   - title: "Enhanced Corneal Endothelial Cell Segmentation via Frequency-Selected Residual Fourier Diffusion Models"
     authors: <strong>Tianyang Wang*</strong>, Xiaofei Nan*, Yunze Wang*, Yuhang Yan, Zhenkai Gao, Jingxin Liu
