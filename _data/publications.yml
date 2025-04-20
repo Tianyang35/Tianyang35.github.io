@@ -13,16 +13,16 @@ main:
     -->
   
 
-  - title: "Enhanced Corneal Endothelial Cell Segmentation via Frequency-Selected Residual Fourier Diffusion Models"
-    authors: "<strong>Tianyang Wang*</strong>, Xiaofei Nan*, Yunze Wang*, Yuhang Yan, Zhenkai Gao, Jingxin Liu"
+  - title: Enhanced Corneal Endothelial Cell Segmentation via Frequency-Selected Residual Fourier Diffusion Models
+    authors: <strong>Tianyang Wang*</strong>, Xiaofei Nan*, Yunze Wang*, Yuhang Yan, Zhenkai Gao, Jingxin Liu
     conference_short: ICASSP
-    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025."
+    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/10890713
     image: ./assets/img/ICASSP2025.png
 
-  - title: "Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images"
-    authors: "Xi Long*, <strong>Tianyang Wang*</strong>, Yanjia Kan*, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu"
+  - title: Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images
+    authors: Xi Long*, <strong>Tianyang Wang*</strong>, Yanjia Kan*, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu
     conference_short: BIBM
-    conference: "IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2024."
+    conference: "IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10822664
     image: ./assets/img/BIBM2024.png
