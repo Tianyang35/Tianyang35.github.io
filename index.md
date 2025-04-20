@@ -4,16 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello there! I am an undergraduate student specializing in computer vision at the [School of AI and Advanced Computing, Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/).  
+My research interests include **medical image analysis**, **computer vision**, and **computational pathology**.
+
+I am currently advised by [Prof. Jingxin Liu](https://scholar.google.com/citations?user=C0X90VsAAAAJ&hl=en). I am very eager to continue my studies in this field. I would be truly grateful for the opportunity to collaborate with like-minded individuals. If you are interested, please feel free to drop me a message.
+
+---
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+ 
+
+- **Computer Vision:** image segmentation, domain adaptation, unsupervised learning  
+- **Computational Pathology:** histopathological image analysis 
+
+
+---
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2025]** One paper was accepted to IJCNN 2025.
+- **[Dec. 2024]** One paper was accepted to ICASSP 2025.
+- **[Aug. 2024]** My **first undergraduate work** was accepted to BIBM 2024.
