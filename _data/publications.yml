@@ -12,7 +12,7 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/10890713
     image: ./assets/img/ICASSP2025.png
-    notes:
+    notes: Poster
 
   - title: "Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images"
     authors: Xi Long*, <strong>Tianyang Wang*</strong>, Yanjia Kan*, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu
@@ -20,5 +20,5 @@ main:
     conference: IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10822664
     image: ./assets/img/BIBM2024.png
-    notes:
+    notes:  Oral Presentation
 
