@@ -10,7 +10,7 @@ main:
     conference_short: IJCNN
     conference: International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2025.
     pdf: https://2025.ijcnn.org/
-    image: ./assets/img/BIBM2024.png
+    image: ./assets/img/IJCNN2025.png
     notes: Camera Ready
 
   - title: "Enhanced Corneal Endothelial Cell Segmentation via Frequency-Selected Residual Fourier Diffusion Models"
