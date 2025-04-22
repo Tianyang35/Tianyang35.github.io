@@ -17,4 +17,4 @@ Hello there! I am an undergraduate student specializing in computer vision at th
 - **[Dec. 2024]** One paper was accepted to ICASSP 2025.  
 - **[Aug. 2024]** My **first undergraduate work** was accepted to BIBM 2024.
 
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=f7f9fb&w=300&t=n&d=vNB6FmoM3iMDfhXOJm-Rz_FuI4AEonDQgADEi1hspKQ&cmo=8aa0b2&cmn=3f8efc&co=4a6fa5&ct=2f2f2f'></script>
+ 
